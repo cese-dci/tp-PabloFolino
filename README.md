@@ -3,15 +3,16 @@ Materia:Diseño de Circuitos Impresos de la Especialización de Sistemas Embebid
 
 Autor: Pablo D. Folino
 
-Profesor: Diego Brengi
 
+Profesor: Diego Brengi
+Revisor: Sergio Alberino
 Año: 2021
 
 # Información del proyecto
 
 | Versión | Descripción | Estado |
 | :-: | :-: | :-: |
-[1.1] | 1. Generación del esquemàtico.| Cumplido |
+[1.1] | 1. Generación del esquemático.| Cumplido |
 [x.x] | 2. Chequeo del ERC del esquemàtico | 3 Warnings|
 [x.x] | 3.    | ✔ |
 [x.x] | 4.    | ✔ |
