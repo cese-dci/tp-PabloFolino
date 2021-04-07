@@ -3,9 +3,10 @@ Materia:Diseño de Circuitos Impresos de la Especialización de Sistemas Embebid
 
 Autor: Pablo D. Folino
 
+Revisor: Sergio Alberino
 
 Profesor: Diego Brengi
-Revisor: Sergio Alberino
+
 Año: 2021
 
 # Información del proyecto
