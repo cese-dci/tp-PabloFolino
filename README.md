@@ -9,18 +9,18 @@ Profesor: Diego Brengi
 
 Año: 2021
 
-# Información del proyecto
+# Histarial del proyecto
 
-| Versión | Descripción | Estado |
+| Fecha | Descripción
 | :-: | :-: | :-: |
-[1.1] | 1. Generación del esquemático.| Cumplido |
-[x.x] | 2. Chequeo del ERC del esquemàtico | 3 Warnings|
-[x.x] | 3.    | ✔ |
-[x.x] | 4.    | ✔ |
-[x.x] | 5.    | ✔ |
-[x.x] | 6.    | ✔ |
-[x.x] | 7.    | ✔ |
-[x.x] | 8.    | ✔ |
-[x.x] | 9.    | ✔ |
-[x.x] | 10.   | ✔ |
-[x.x] | 11.   | ✔ |
+[11/03/2021] | Creación del repositorio. | 
+[06/042021] | Generación del esquemático. | 
+[07/04/2021] | Chequeo del ERC del esquemàtico --> 3 Warnings|
+[08/04/2021] | Actualización Esquemático Power_Flag. | 
+[09/04/2021] | Restructuración del Repositorio. | 
+[x.x] | 6.    | 
+[x.x] | 7.    | 
+[x.x] | 8.    | 
+[x.x] | 9.    | 
+[x.x] | 10.   | 
+[x.x] | 11.   | 
