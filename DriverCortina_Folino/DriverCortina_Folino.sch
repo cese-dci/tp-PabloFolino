@@ -16,49 +16,49 @@ $EndDescr
 $Comp
 L Device:R R1
 U 1 1 60462889
-P 3800 1200
-F 0 "R1" V 4007 1200 50  0000 C CNN
-F 1 "R100" V 3916 1200 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" V 3730 1200 50  0001 C CNN
-F 3 "~" H 3800 1200 50  0001 C CNN
-F 4 "1/4 w" H 3800 1200 50  0001 C CNN "Description"
-	1    3800 1200
+P 4350 1200
+F 0 "R1" V 4557 1200 50  0000 C CNN
+F 1 "R100" V 4466 1200 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" V 4280 1200 50  0001 C CNN
+F 3 "~" H 4350 1200 50  0001 C CNN
+F 4 "1/4 w" H 4350 1200 50  0001 C CNN "Description"
+	1    4350 1200
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Device:R R2
 U 1 1 60463D8A
-P 3800 1550
-F 0 "R2" V 4007 1550 50  0000 C CNN
-F 1 "R100" V 3916 1550 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" V 3730 1550 50  0001 C CNN
-F 3 "~" H 3800 1550 50  0001 C CNN
-F 4 "1/4 w" H 3800 1550 50  0001 C CNN "Description"
-	1    3800 1550
+P 4350 1550
+F 0 "R2" V 4557 1550 50  0000 C CNN
+F 1 "R100" V 4466 1550 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" V 4280 1550 50  0001 C CNN
+F 3 "~" H 4350 1550 50  0001 C CNN
+F 4 "1/4 w" H 4350 1550 50  0001 C CNN "Description"
+	1    4350 1550
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Device:R R3
 U 1 1 604648AA
-P 4850 1550
-F 0 "R3" V 5057 1550 50  0000 C CNN
-F 1 "R1M" V 4966 1550 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" V 4780 1550 50  0001 C CNN
-F 3 "~" H 4850 1550 50  0001 C CNN
-F 4 "1/4 w" H 4850 1550 50  0001 C CNN "Description"
-	1    4850 1550
+P 5400 1550
+F 0 "R3" V 5607 1550 50  0000 C CNN
+F 1 "R1M" V 5516 1550 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" V 5330 1550 50  0001 C CNN
+F 3 "~" H 5400 1550 50  0001 C CNN
+F 4 "1/4 w" H 5400 1550 50  0001 C CNN "Description"
+	1    5400 1550
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Device:D_Zener D1
 U 1 1 604663B7
-P 8250 1800
-F 0 "D1" V 8204 1880 50  0000 L CNN
-F 1 "5.1v" V 8295 1880 50  0000 L CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 8250 1800 50  0001 C CNN
-F 3 "~" H 8250 1800 50  0001 C CNN
-F 4 "Zener de 1/2w" H 8250 1800 50  0001 C CNN "Description"
-	1    8250 1800
+P 8800 1800
+F 0 "D1" V 8754 1880 50  0000 L CNN
+F 1 "5.1v" V 8845 1880 50  0000 L CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 8800 1800 50  0001 C CNN
+F 3 "~" H 8800 1800 50  0001 C CNN
+F 4 "Zener de 1/2w" H 8800 1800 50  0001 C CNN "Description"
+	1    8800 1800
 	0    1    1    0   
 $EndComp
 $Comp
@@ -79,183 +79,183 @@ $EndComp
 $Comp
 L Device:R R5
 U 1 1 6046EB99
-P 7850 1500
-F 0 "R5" V 8057 1500 50  0000 C CNN
-F 1 "R100" V 7966 1500 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" V 7780 1500 50  0001 C CNN
-F 3 "~" H 7850 1500 50  0001 C CNN
-F 4 "1/4 w" H 7850 1500 50  0001 C CNN "Description"
-	1    7850 1500
+P 8400 1500
+F 0 "R5" V 8607 1500 50  0000 C CNN
+F 1 "R100" V 8516 1500 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" V 8330 1500 50  0001 C CNN
+F 3 "~" H 8400 1500 50  0001 C CNN
+F 4 "1/4 w" H 8400 1500 50  0001 C CNN "Description"
+	1    8400 1500
 	0    -1   -1   0   
 $EndComp
 Wire Wire Line
-	3950 1200 4150 1200
+	4500 1200 4700 1200
 Wire Wire Line
-	4150 1200 4150 1350
+	4700 1200 4700 1350
 Wire Wire Line
-	4150 1550 3950 1550
+	4700 1550 4500 1550
 Wire Wire Line
-	3650 1200 3400 1200
+	4200 1200 3950 1200
 Wire Wire Line
-	3400 1200 3400 1350
+	3950 1200 3950 1350
 Wire Wire Line
-	3400 1550 3650 1550
+	3950 1550 4200 1550
 Wire Wire Line
-	4450 1200 4450 1350
+	5000 1200 5000 1350
 Wire Wire Line
-	4450 1550 4700 1550
+	5000 1550 5250 1550
 Wire Wire Line
-	5250 1550 5000 1550
+	5800 1550 5550 1550
 Wire Wire Line
-	4150 1350 4450 1350
-Connection ~ 4150 1350
+	4700 1350 5000 1350
+Connection ~ 4700 1350
 Wire Wire Line
-	4150 1350 4150 1550
-Connection ~ 4450 1350
+	4700 1350 4700 1550
+Connection ~ 5000 1350
 Wire Wire Line
-	4450 1350 4450 1550
+	5000 1350 5000 1550
 Wire Wire Line
-	5750 1350 5250 1350
+	6300 1350 5800 1350
 Wire Wire Line
-	5250 1200 5250 1350
-Connection ~ 5250 1350
+	5800 1200 5800 1350
+Connection ~ 5800 1350
 Wire Wire Line
-	5250 1350 5250 1550
+	5800 1350 5800 1550
 Wire Wire Line
-	6050 1850 6050 1500
+	6600 1850 6600 1500
 $Comp
 L Connector:Screw_Terminal_01x02 J1
 U 1 1 60477EAA
-P 2850 1850
-F 0 "J1" H 2930 1842 50  0000 L CNN
-F 1 "AC 220v" H 2930 1751 50  0000 L CNN
-F 2 "DriverCortina_Folino:bornera_1x2_con_tornillo_5.08mm" H 2850 1850 50  0001 C CNN
-F 3 "~" H 2850 1850 50  0001 C CNN
-	1    2850 1850
+P 3400 1850
+F 0 "J1" H 3480 1842 50  0000 L CNN
+F 1 "AC 220v" H 3480 1751 50  0000 L CNN
+F 2 "DriverCortina_Folino:bornera_1x2_con_tornillo_5.08mm" H 3400 1850 50  0001 C CNN
+F 3 "~" H 3400 1850 50  0001 C CNN
+	1    3400 1850
 	-1   0    0    1   
 $EndComp
 $Comp
 L power:+5V #PWR0101
 U 1 1 6047AB01
-P 9100 1450
-F 0 "#PWR0101" H 9100 1300 50  0001 C CNN
-F 1 "+5V" H 9115 1623 50  0000 C CNN
-F 2 "" H 9100 1450 50  0001 C CNN
-F 3 "" H 9100 1450 50  0001 C CNN
-	1    9100 1450
+P 9650 1450
+F 0 "#PWR0101" H 9650 1300 50  0001 C CNN
+F 1 "+5V" H 9665 1623 50  0000 C CNN
+F 2 "" H 9650 1450 50  0001 C CNN
+F 3 "" H 9650 1450 50  0001 C CNN
+	1    9650 1450
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	7450 1650 7450 1500
-Connection ~ 7450 1500
-Wire Wire Line
-	7450 1500 7700 1500
+	8000 1650 8000 1500
+Connection ~ 8000 1500
 Wire Wire Line
 	8000 1500 8250 1500
 Wire Wire Line
-	8750 1500 8750 1650
-Connection ~ 8750 1500
+	8550 1500 8800 1500
 Wire Wire Line
-	8750 1500 9100 1500
+	9300 1500 9300 1650
+Connection ~ 9300 1500
 Wire Wire Line
-	8250 1650 8250 1500
-Connection ~ 8250 1500
+	9300 1500 9650 1500
 Wire Wire Line
-	8250 1500 8750 1500
+	8800 1650 8800 1500
+Connection ~ 8800 1500
 Wire Wire Line
-	7450 1950 7450 2150
-Connection ~ 7450 2150
+	8800 1500 9300 1500
 Wire Wire Line
-	7450 2150 8250 2150
+	8000 1950 8000 2150
+Connection ~ 8000 2150
 Wire Wire Line
-	8250 1950 8250 2150
-Connection ~ 8250 2150
+	8000 2150 8800 2150
 Wire Wire Line
-	8250 2150 8750 2150
+	8800 1950 8800 2150
+Connection ~ 8800 2150
 Wire Wire Line
-	8750 1950 8750 2150
-Connection ~ 8750 2150
+	8800 2150 9300 2150
 Wire Wire Line
-	8750 2150 9100 2150
+	9300 1950 9300 2150
+Connection ~ 9300 2150
 Wire Wire Line
-	3050 1750 3150 1750
+	9300 2150 9650 2150
 Wire Wire Line
-	3150 1750 3150 1350
+	3600 1750 3700 1750
 Wire Wire Line
-	3150 1350 3400 1350
-Connection ~ 3400 1350
+	3700 1750 3700 1350
 Wire Wire Line
-	3400 1350 3400 1550
+	3700 1350 3950 1350
+Connection ~ 3950 1350
 Wire Wire Line
-	3050 1850 5450 1850
-Connection ~ 6950 2150
+	3950 1350 3950 1550
 Wire Wire Line
-	6950 2150 7450 2150
+	3600 1850 6000 1850
+Connection ~ 7500 2150
 Wire Wire Line
-	5750 2150 6950 2150
-Connection ~ 6950 1500
+	7500 2150 8000 2150
 Wire Wire Line
-	6950 1500 7450 1500
+	6300 2150 7500 2150
+Connection ~ 7500 1500
 Wire Wire Line
-	6050 1500 6950 1500
+	7500 1500 8000 1500
 Wire Wire Line
-	6950 1950 6950 2150
+	6600 1500 7500 1500
 Wire Wire Line
-	6950 1650 6950 1500
+	7500 1950 7500 2150
+Wire Wire Line
+	7500 1650 7500 1500
 $Comp
 L Device:CP C3
 U 1 1 60467340
-P 6950 1800
-F 0 "C3" H 7068 1846 50  0000 L CNN
-F 1 "C100uF" H 7068 1755 50  0000 L CNN
-F 2 "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm" H 6988 1650 50  0001 C CNN
-F 3 "~" H 6950 1800 50  0001 C CNN
-F 4 "Capacitor Electrolìtico 16v" H 6950 1800 50  0001 C CNN "Description"
-	1    6950 1800
+P 7500 1800
+F 0 "C3" H 7618 1846 50  0000 L CNN
+F 1 "C100uF" H 7618 1755 50  0000 L CNN
+F 2 "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm" H 7538 1650 50  0001 C CNN
+F 3 "~" H 7500 1800 50  0001 C CNN
+F 4 "Capacitor Electrolìtico 16v" H 7500 1800 50  0001 C CNN "Description"
+	1    7500 1800
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	5000 1200 5250 1200
+	5550 1200 5800 1200
 Wire Wire Line
-	4700 1200 4450 1200
+	5250 1200 5000 1200
 $Comp
 L Device:C C1
 U 1 1 60465133
-P 4850 1200
-F 0 "C1" V 5102 1200 50  0000 C CNN
-F 1 "C1uF" V 5011 1200 50  0000 C CNN
-F 2 "Capacitor_THT:C_Rect_L26.5mm_W11.5mm_P22.50mm_MKS4" H 4888 1050 50  0001 C CNN
-F 3 "~" H 4850 1200 50  0001 C CNN
-F 4 "Capacitor de Poliester o X7 >310v" H 4850 1200 50  0001 C CNN "Description"
-	1    4850 1200
+P 5400 1200
+F 0 "C1" V 5652 1200 50  0000 C CNN
+F 1 "C1uF" V 5561 1200 50  0000 C CNN
+F 2 "Capacitor_THT:C_Rect_L26.5mm_W11.5mm_P22.50mm_MKS4" H 5438 1050 50  0001 C CNN
+F 3 "~" H 5400 1200 50  0001 C CNN
+F 4 "Capacitor de Poliester o X7 >310v" H 5400 1200 50  0001 C CNN "Description"
+	1    5400 1200
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Device:R R4
 U 1 1 6046DDF5
-P 7450 1800
-F 0 "R4" H 7380 1754 50  0000 R CNN
-F 1 "R1M" H 7380 1845 50  0000 R CNN
-F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" V 7380 1800 50  0001 C CNN
-F 3 "~" H 7450 1800 50  0001 C CNN
-F 4 "1/4 w" H 7450 1800 50  0001 C CNN "Description"
-	1    7450 1800
+P 8000 1800
+F 0 "R4" H 7930 1754 50  0000 R CNN
+F 1 "R1M" H 7930 1845 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" V 7930 1800 50  0001 C CNN
+F 3 "~" H 8000 1800 50  0001 C CNN
+F 4 "1/4 w" H 8000 1800 50  0001 C CNN "Description"
+	1    8000 1800
 	-1   0    0    1   
 $EndComp
 $Comp
 L Device:C C4
 U 1 1 6046FF14
-P 8750 1800
-F 0 "C4" H 8865 1846 50  0000 L CNN
-F 1 "C100nF" H 8865 1755 50  0000 L CNN
-F 2 "Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm" H 8788 1650 50  0001 C CNN
-F 3 "https://html.alldatasheet.com/html-pdf/918054/KEMET/C320C104K5R5TA/157/1/C320C104K5R5TA.html" H 8750 1800 50  0001 C CNN
-F 4 "Capacitor cerámico" H 8750 1800 50  0001 C CNN "Description"
-F 5 "KERMET" H 8750 1800 50  0001 C CNN "Manufacture_name"
-F 6 "C320C104K5R5TA" H 8750 1800 50  0001 C CNN "Manufacture_part_name"
-F 7 "KERMET" H 8750 1800 50  0001 C CNN "Manufacturer_Name"
-F 8 "C320C104K5R5TA" H 8750 1800 50  0001 C CNN "Manufacturer_Part_Number"
-	1    8750 1800
+P 9300 1800
+F 0 "C4" H 9415 1846 50  0000 L CNN
+F 1 "C100nF" H 9415 1755 50  0000 L CNN
+F 2 "Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm" H 9338 1650 50  0001 C CNN
+F 3 "https://html.alldatasheet.com/html-pdf/918054/KEMET/C320C104K5R5TA/157/1/C320C104K5R5TA.html" H 9300 1800 50  0001 C CNN
+F 4 "Capacitor cerámico" H 9300 1800 50  0001 C CNN "Description"
+F 5 "KERMET" H 9300 1800 50  0001 C CNN "Manufacture_name"
+F 6 "C320C104K5R5TA" H 9300 1800 50  0001 C CNN "Manufacture_part_name"
+F 7 "KERMET" H 9300 1800 50  0001 C CNN "Manufacturer_Name"
+F 8 "C320C104K5R5TA" H 9300 1800 50  0001 C CNN "Manufacturer_Part_Number"
+	1    9300 1800
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -366,19 +366,17 @@ $EndComp
 Wire Wire Line
 	1500 3600 1700 3600
 Wire Notes Line
-	9950 2400 9950 700 
+	10500 2400 10500 700 
 Wire Notes Line
-	9950 700  2300 700 
+	10500 700  2850 700 
 Wire Notes Line
-	2300 700  2300 2400
+	2850 700  2850 2400
 Wire Notes Line
-	2300 2400 9950 2400
-Text Label 9300 1000 2    157  ~ 0
+	2850 2400 10500 2400
+Text Label 9850 1000 2    157  ~ 0
 Fuente_de_Alimentación
 Wire Notes Line
 	10500 5000 1150 5000
-Wire Notes Line
-	1150 5000 1150 2550
 Wire Notes Line
 	1150 2550 10500 2550
 Wire Notes Line
@@ -420,12 +418,12 @@ $EndComp
 $Comp
 L power:GND #PWR0102
 U 1 1 605A1C3D
-P 9100 2200
-F 0 "#PWR0102" H 9100 1950 50  0001 C CNN
-F 1 "GND" H 9105 2027 50  0000 C CNN
-F 2 "" H 9100 2200 50  0001 C CNN
-F 3 "" H 9100 2200 50  0001 C CNN
-	1    9100 2200
+P 9650 2200
+F 0 "#PWR0102" H 9650 1950 50  0001 C CNN
+F 1 "GND" H 9655 2027 50  0000 C CNN
+F 2 "" H 9650 2200 50  0001 C CNN
+F 3 "" H 9650 2200 50  0001 C CNN
+	1    9650 2200
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -462,7 +460,7 @@ F 3 "" H 4600 7150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	9100 2150 9100 2200
+	9650 2150 9650 2200
 Wire Wire Line
 	8450 5950 8450 6050
 Wire Wire Line
@@ -783,7 +781,7 @@ Wire Notes Line
 Wire Wire Line
 	1650 6200 1650 6350
 Wire Wire Line
-	2500 6350 1650 6350
+	2500 6350 2150 6350
 Connection ~ 1650 6350
 Wire Wire Line
 	1650 6350 1650 6600
@@ -793,7 +791,7 @@ Wire Wire Line
 	7300 2950 7300 3100
 Connection ~ 7300 3100
 Wire Wire Line
-	5750 1350 5750 1550
+	6300 1350 6300 1550
 Wire Wire Line
 	1650 6900 1650 7050
 Wire Wire Line
@@ -806,21 +804,138 @@ Wire Wire Line
 	2500 2950 2500 3100
 Connection ~ 2500 3100
 Wire Wire Line
-	9100 1500 9100 1450
+	9650 1500 9650 1450
 $Comp
 L Device:D_Bridge_+-AA D2
 U 1 1 6046A15E
-P 5750 1850
-F 0 "D2" H 6094 1896 50  0000 L CNN
-F 1 "Bridge KBL10" H 6094 1805 50  0000 L CNN
-F 2 "Diode_THT:Diode_Bridge_Vishay_KBL" H 5750 1850 50  0001 C CNN
-F 3 "https://datasheet4u.com/datasheet-pdf/SEPELECTRONIC/KBL10/pdf.php?id=1216268" H 5750 1850 50  0001 C CNN
-F 4 "Puente de diodos Imax.>1A  y Vrbeak >620v" H 5750 1850 50  0001 C CNN "Description"
-	1    5750 1850
+P 6300 1850
+F 0 "D2" H 6644 1896 50  0000 L CNN
+F 1 "Bridge KBL10" H 6644 1805 50  0000 L CNN
+F 2 "Diode_THT:Diode_Bridge_Vishay_KBL" H 6300 1850 50  0001 C CNN
+F 3 "https://datasheet4u.com/datasheet-pdf/SEPELECTRONIC/KBL10/pdf.php?id=1216268" H 6300 1850 50  0001 C CNN
+F 4 "Puente de diodos Imax.>1A  y Vrbeak >620v" H 6300 1850 50  0001 C CNN "Description"
+	1    6300 1850
 	1    0    0    -1  
 $EndComp
 Text Notes 8250 3150 0    50   ~ 0
 Las pistas que seconectan a \nJ4 deben soportar 2A.
 Text Notes 3450 3150 0    50   ~ 0
 Las pistas que seconectan a \nJ3 deben soportar 2A.
+$Comp
+L power:PWR_FLAG #FLG0101
+U 1 1 606FE6EF
+P 9950 1450
+F 0 "#FLG0101" H 9950 1525 50  0001 C CNN
+F 1 "PWR_FLAG" H 9950 1623 50  0000 C CNN
+F 2 "" H 9950 1450 50  0001 C CNN
+F 3 "~" H 9950 1450 50  0001 C CNN
+	1    9950 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:PWR_FLAG #FLG0102
+U 1 1 607035A2
+P 9950 2200
+F 0 "#FLG0102" H 9950 2275 50  0001 C CNN
+F 1 "PWR_FLAG" H 9950 2373 50  0000 C CNN
+F 2 "" H 9950 2200 50  0001 C CNN
+F 3 "~" H 9950 2200 50  0001 C CNN
+	1    9950 2200
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	9950 1450 9950 1500
+Wire Wire Line
+	9950 1500 9650 1500
+Connection ~ 9650 1500
+Wire Wire Line
+	9950 2200 9950 2150
+Wire Wire Line
+	9950 2150 9650 2150
+Connection ~ 9650 2150
+$Comp
+L power:PWR_FLAG #FLG0103
+U 1 1 6070AA25
+P 2150 6200
+F 0 "#FLG0103" H 2150 6275 50  0001 C CNN
+F 1 "PWR_FLAG" H 2150 6373 50  0000 C CNN
+F 2 "" H 2150 6200 50  0001 C CNN
+F 3 "~" H 2150 6200 50  0001 C CNN
+	1    2150 6200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2150 6200 2150 6350
+Connection ~ 2150 6350
+Wire Wire Line
+	2150 6350 1650 6350
+$Comp
+L Mechanical:Fiducial FID1
+U 1 1 6070F0F5
+P 1700 1500
+F 0 "FID1" H 1785 1546 50  0000 L CNN
+F 1 "Fiducial" H 1785 1455 50  0000 L CNN
+F 2 "Fiducial:Fiducial_1.5mm_Mask3mm" H 1700 1500 50  0001 C CNN
+F 3 "~" H 1700 1500 50  0001 C CNN
+	1    1700 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H1
+U 1 1 60711C1C
+P 1300 1900
+F 0 "H1" H 1400 1946 50  0000 L CNN
+F 1 "MountingHole" H 1400 1855 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.5mm_Pad" H 1300 1900 50  0001 C CNN
+F 3 "~" H 1300 1900 50  0001 C CNN
+	1    1300 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H3
+U 1 1 60712315
+P 1300 2200
+F 0 "H3" H 1400 2246 50  0000 L CNN
+F 1 "MountingHole" H 1400 2155 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.5mm_Pad" H 1300 2200 50  0001 C CNN
+F 3 "~" H 1300 2200 50  0001 C CNN
+	1    1300 2200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H2
+U 1 1 60712970
+P 2050 1900
+F 0 "H2" H 2150 1946 50  0000 L CNN
+F 1 "MountingHole" H 2150 1855 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.5mm_Pad" H 2050 1900 50  0001 C CNN
+F 3 "~" H 2050 1900 50  0001 C CNN
+	1    2050 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H4
+U 1 1 60712EDC
+P 2050 2200
+F 0 "H4" H 2150 2246 50  0000 L CNN
+F 1 "MountingHole" H 2150 2155 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.5mm_Pad" H 2050 2200 50  0001 C CNN
+F 3 "~" H 2050 2200 50  0001 C CNN
+	1    2050 2200
+	1    0    0    -1  
+$EndComp
+Wire Notes Line
+	1150 5000 1150 2550
+Wire Notes Line
+	2750 2400 2750 700 
+Wire Notes Line
+	2750 700  1150 700 
+Wire Notes Line
+	1150 700  1150 2400
+Wire Notes Line
+	1150 2400 2750 2400
+Text Label 1200 950  0    157  ~ 0
+Componentes
+Text Label 2350 1200 2    157  ~ 0
+Físicos
 $EndSCHEMATC

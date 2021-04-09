@@ -783,7 +783,7 @@ Wire Notes Line
 Wire Wire Line
 	1650 6200 1650 6350
 Wire Wire Line
-	2500 6350 1650 6350
+	2500 6350 2150 6350
 Connection ~ 1650 6350
 Wire Wire Line
 	1650 6350 1650 6600
@@ -812,9 +812,9 @@ L Device:D_Bridge_+-AA D2
 U 1 1 6046A15E
 P 5750 1850
 F 0 "D2" H 6094 1896 50  0000 L CNN
-F 1 "Bridge BLK10" H 6094 1805 50  0000 L CNN
+F 1 "Bridge KBL10" H 6094 1805 50  0000 L CNN
 F 2 "Diode_THT:Diode_Bridge_Vishay_KBL" H 5750 1850 50  0001 C CNN
-F 3 "" H 5750 1850 50  0001 C CNN
+F 3 "https://datasheet4u.com/datasheet-pdf/SEPELECTRONIC/KBL10/pdf.php?id=1216268" H 5750 1850 50  0001 C CNN
 F 4 "Puente de diodos Imax.>1A  y Vrbeak >620v" H 5750 1850 50  0001 C CNN "Description"
 	1    5750 1850
 	1    0    0    -1  
@@ -823,4 +823,52 @@ Text Notes 8250 3150 0    50   ~ 0
 Las pistas que seconectan a \nJ4 deben soportar 2A.
 Text Notes 3450 3150 0    50   ~ 0
 Las pistas que seconectan a \nJ3 deben soportar 2A.
+$Comp
+L power:PWR_FLAG #FLG0101
+U 1 1 606FE6EF
+P 9400 1450
+F 0 "#FLG0101" H 9400 1525 50  0001 C CNN
+F 1 "PWR_FLAG" H 9400 1623 50  0000 C CNN
+F 2 "" H 9400 1450 50  0001 C CNN
+F 3 "~" H 9400 1450 50  0001 C CNN
+	1    9400 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:PWR_FLAG #FLG0102
+U 1 1 607035A2
+P 9400 2200
+F 0 "#FLG0102" H 9400 2275 50  0001 C CNN
+F 1 "PWR_FLAG" H 9400 2373 50  0000 C CNN
+F 2 "" H 9400 2200 50  0001 C CNN
+F 3 "~" H 9400 2200 50  0001 C CNN
+	1    9400 2200
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	9400 1450 9400 1500
+Wire Wire Line
+	9400 1500 9100 1500
+Connection ~ 9100 1500
+Wire Wire Line
+	9400 2200 9400 2150
+Wire Wire Line
+	9400 2150 9100 2150
+Connection ~ 9100 2150
+$Comp
+L power:PWR_FLAG #FLG?
+U 1 1 6070AA25
+P 2150 6200
+F 0 "#FLG?" H 2150 6275 50  0001 C CNN
+F 1 "PWR_FLAG" H 2150 6373 50  0000 C CNN
+F 2 "" H 2150 6200 50  0001 C CNN
+F 3 "~" H 2150 6200 50  0001 C CNN
+	1    2150 6200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2150 6200 2150 6350
+Connection ~ 2150 6350
+Wire Wire Line
+	2150 6350 1650 6350
 $EndSCHEMATC
