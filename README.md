@@ -4,23 +4,20 @@ Materia:Diseño de Circuitos Impresos de la Especialización de Sistemas Embebid
 Autor: Pablo D. Folino
 
 Revisor: Sergio Alberino
+Enlace --> https://github.com/cese-dci/tp-SergioAlberino/blob/master/Revisi%C3%B3n%20Folino/1.4.Plantilla%20de%20revisi%C3%B3n%20de%20PCBs%20-%20Folino.xlsx
 
 Profesor: Diego Brengi
 
 Año: 2021
 
-# Histarial del proyecto
+# Historial del proyecto
 
 | Fecha | Descripción
 | :-: | :-: | :-: |
 [11/03/2021] | Creación del repositorio. | 
 [06/042021] | Generación del esquemático. | 
-[07/04/2021] | Chequeo del ERC del esquemàtico --> 3 Warnings|
-[08/04/2021] | Actualización Esquemático Power_Flag. | 
-[09/04/2021] | Restructuración del Repositorio. | 
-[x.x] | 6.    | 
-[x.x] | 7.    | 
-[x.x] | 8.    | 
-[x.x] | 9.    | 
-[x.x] | 10.   | 
-[x.x] | 11.   | 
+[07/04/2021] | Chequeo del ERC del esquemàtico --> 3 Warnings. |
+[08/04/2021] | Actualización Esquemático Power_Flag -- > 0 Warnings. |
+[08/04/2021] | Modificación de la organización del repositorio. | 
+[x.x] |     | 
+ 
