@@ -409,7 +409,7 @@ U 1 1 6055D07A
 P 1650 6750
 F 0 "D3" V 1604 6830 50  0000 L CNN
 F 1 "3.3v" V 1695 6830 50  0000 L CNN
-F 2 "digikey-footprints:DO-35" H 1650 6750 50  0001 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 1650 6750 50  0001 C CNN
 F 3 "~" H 1650 6750 50  0001 C CNN
 F 4 "Zener de 1/2w" H 1650 6750 50  0001 C CNN "Description"
 	1    1650 6750
@@ -784,9 +784,6 @@ Wire Wire Line
 	1650 6200 1650 6350
 Wire Wire Line
 	2500 6350 2150 6350
-Connection ~ 1650 6350
-Wire Wire Line
-	1650 6350 1650 6600
 NoConn ~ 2500 6450
 NoConn ~ 2500 6550
 Wire Wire Line
@@ -794,8 +791,6 @@ Wire Wire Line
 Connection ~ 7300 3100
 Wire Wire Line
 	6300 1350 6300 1550
-Wire Wire Line
-	1650 6900 1650 7050
 Wire Wire Line
 	8050 4700 8050 4150
 Wire Wire Line
@@ -940,4 +935,9 @@ Text Label 1200 950  0    157  ~ 0
 Componentes
 Text Label 2350 1200 2    157  ~ 0
 Físicos
+Wire Wire Line
+	1650 6600 1650 6350
+Connection ~ 1650 6350
+Wire Wire Line
+	1650 6900 1650 7050
 $EndSCHEMATC

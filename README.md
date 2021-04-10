@@ -20,6 +20,7 @@ Año: 2021
 |[07/04/2021] | Chequeo del ERC del esquemàtico --> 3 Warnings. |
 |[08/04/2021] | Actualización Esquemático Power_Flag -- > 0 Warnings. |
 |[08/04/2021] | Modificación de la organización del repositorio. | 
-|[08/04/2021] | Corrección de errores de documentación. | 
+|[09/04/2021] | Corrección de errores de documentación. | 
+|[10/04/2021] | Actualiza Footprint D3. | 
 |[x.x] |     | 
  
