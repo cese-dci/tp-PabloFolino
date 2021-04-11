@@ -8,9 +8,9 @@ Title "Controlador WiFi para cortina"
 Date "2021-04-09"
 Rev "1.2"
 Comp "CESE_FIUBA"
-Comment1 "Revisor: Ing. Sergio Alberino"
-Comment2 "Autor: Ing. Pablo D. Folino"
-Comment3 ""
+Comment1 "Profesor: Diego Brengi"
+Comment2 "Revisor: Ing. Sergio Alberino"
+Comment3 "Autor: Ing. Pablo D. Folino"
 Comment4 ""
 $EndDescr
 $Comp
@@ -19,7 +19,7 @@ U 1 1 60462889
 P 4350 1200
 F 0 "R1" V 4557 1200 50  0000 C CNN
 F 1 "R100" V 4466 1200 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" V 4280 1200 50  0001 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 4280 1200 50  0001 C CNN
 F 3 "~" H 4350 1200 50  0001 C CNN
 F 4 "1/4 w" H 4350 1200 50  0001 C CNN "Description"
 	1    4350 1200
@@ -31,7 +31,7 @@ U 1 1 60463D8A
 P 4350 1550
 F 0 "R2" V 4557 1550 50  0000 C CNN
 F 1 "R100" V 4466 1550 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" V 4280 1550 50  0001 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 4280 1550 50  0001 C CNN
 F 3 "~" H 4350 1550 50  0001 C CNN
 F 4 "1/4 w" H 4350 1550 50  0001 C CNN "Description"
 	1    4350 1550
@@ -43,7 +43,7 @@ U 1 1 604648AA
 P 5400 1550
 F 0 "R3" V 5607 1550 50  0000 C CNN
 F 1 "R1M" V 5516 1550 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" V 5330 1550 50  0001 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 5330 1550 50  0001 C CNN
 F 3 "~" H 5400 1550 50  0001 C CNN
 F 4 "1/4 w" H 5400 1550 50  0001 C CNN "Description"
 	1    5400 1550
@@ -82,7 +82,7 @@ U 1 1 6046EB99
 P 8400 1500
 F 0 "R5" V 8607 1500 50  0000 C CNN
 F 1 "R100" V 8516 1500 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" V 8330 1500 50  0001 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 8330 1500 50  0001 C CNN
 F 3 "~" H 8400 1500 50  0001 C CNN
 F 4 "1/4 w" H 8400 1500 50  0001 C CNN "Description"
 	1    8400 1500
@@ -126,13 +126,13 @@ Wire Wire Line
 $Comp
 L Connector:Screw_Terminal_01x02 J1
 U 1 1 60477EAA
-P 3400 1850
-F 0 "J1" H 3480 1842 50  0000 L CNN
-F 1 "AC 220v" H 3480 1751 50  0000 L CNN
-F 2 "DriverCortina_Folino:bornera_1x2_con_tornillo_5.08mm" H 3400 1850 50  0001 C CNN
-F 3 "~" H 3400 1850 50  0001 C CNN
-	1    3400 1850
-	-1   0    0    1   
+P 3400 1750
+F 0 "J1" H 3480 1742 50  0000 L CNN
+F 1 "AC 220v" H 3480 1651 50  0000 L CNN
+F 2 "DriverCortina_Folino:bornera_1x2_con_tornillo_5.08mm" H 3400 1750 50  0001 C CNN
+F 3 "~" H 3400 1750 50  0001 C CNN
+	1    3400 1750
+	-1   0    0    -1  
 $EndComp
 $Comp
 L power:+5V #PWR0101
@@ -236,7 +236,7 @@ U 1 1 6046DDF5
 P 8000 1800
 F 0 "R4" H 7930 1754 50  0000 R CNN
 F 1 "R1M" H 7930 1845 50  0000 R CNN
-F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" V 7930 1800 50  0001 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 7930 1800 50  0001 C CNN
 F 3 "~" H 8000 1800 50  0001 C CNN
 F 4 "1/4 w" H 8000 1800 50  0001 C CNN "Description"
 	1    8000 1800
@@ -264,7 +264,7 @@ U 1 1 60485C0B
 P 1650 6050
 F 0 "R10" V 1857 6050 50  0000 C CNN
 F 1 "R10K" V 1766 6050 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" V 1580 6050 50  0001 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 1580 6050 50  0001 C CNN
 F 3 "~" H 1650 6050 50  0001 C CNN
 F 4 "1/4 w" H 1650 6050 50  0001 C CNN "Description"
 	1    1650 6050
@@ -287,7 +287,7 @@ U 1 1 604A2A9B
 P 2400 3600
 F 0 "Q1" H 2590 3554 50  0000 L CNN
 F 1 "BC558" H 2590 3645 50  0000 L CNN
-F 2 "Package_TO_SOT_THT:TO-92L_Inline" H 2600 3700 50  0001 C CNN
+F 2 "Package_TO_SOT_THT:TO-92L_Inline_Wide" H 2600 3700 50  0001 C CNN
 F 3 "~" H 2400 3600 50  0001 C CNN
 F 4 "Transistor PNP" H 2400 3600 50  0001 C CNN "Description"
 F 5 "Fairchild" H 2400 3600 50  0001 C CNN "Manufacture_name"
@@ -357,7 +357,7 @@ U 1 1 604A4767
 P 1850 3600
 F 0 "R6" V 2057 3600 50  0000 C CNN
 F 1 "R10K" V 1966 3600 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" V 1780 3600 50  0001 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 1780 3600 50  0001 C CNN
 F 3 "~" H 1850 3600 50  0001 C CNN
 F 4 "1/4 w" H 1850 3600 50  0001 C CNN "Description"
 	1    1850 3600
@@ -478,7 +478,7 @@ F 1 "Llave Inversora" H 8830 5801 50  0000 L CNN
 F 2 "DriverCortina_Folino:bornera_1x3_con_tornillo_5.08mm" H 8750 5850 50  0001 C CNN
 F 3 "~" H 8750 5850 50  0001 C CNN
 	1    8750 5850
-	1    0    0    -1  
+	1    0    0    1   
 $EndComp
 $Comp
 L power:GND #PWR0108
@@ -524,7 +524,7 @@ U 1 1 60674B94
 P 4650 6050
 F 0 "R11" H 4720 6096 50  0000 L CNN
 F 1 "R10K" H 4720 6005 50  0000 L CNN
-F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" V 4580 6050 50  0001 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 4580 6050 50  0001 C CNN
 F 3 "~" H 4650 6050 50  0001 C CNN
 F 4 "1/4 w" H 4650 6050 50  0001 C CNN "Description"
 	1    4650 6050
@@ -536,7 +536,7 @@ U 1 1 6067532A
 P 5550 6050
 F 0 "R12" H 5620 6096 50  0000 L CNN
 F 1 "R10K" H 5620 6005 50  0000 L CNN
-F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" V 5480 6050 50  0001 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 5480 6050 50  0001 C CNN
 F 3 "~" H 5550 6050 50  0001 C CNN
 F 4 "1/4 w" H 5550 6050 50  0001 C CNN "Description"
 	1    5550 6050
@@ -558,28 +558,6 @@ Connection ~ 5550 6450
 Wire Wire Line
 	5550 6450 5800 6450
 Connection ~ 4650 6350
-$Comp
-L power:+5V #PWR0109
-U 1 1 606A3869
-P 4650 5800
-F 0 "#PWR0109" H 4650 5650 50  0001 C CNN
-F 1 "+5V" H 4665 5973 50  0000 C CNN
-F 2 "" H 4650 5800 50  0001 C CNN
-F 3 "" H 4650 5800 50  0001 C CNN
-	1    4650 5800
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:+5V #PWR0110
-U 1 1 606A4477
-P 5550 5800
-F 0 "#PWR0110" H 5550 5650 50  0001 C CNN
-F 1 "+5V" H 5565 5973 50  0000 C CNN
-F 2 "" H 5550 5800 50  0001 C CNN
-F 3 "" H 5550 5800 50  0001 C CNN
-	1    5550 5800
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	4650 5800 4650 5900
 Wire Wire Line
@@ -602,7 +580,7 @@ U 1 1 604A6200
 P 2150 3300
 F 0 "R7" V 2004 3300 50  0000 C TNN
 F 1 "R10K" V 1911 3300 50  0000 C TNN
-F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" V 2080 3300 50  0001 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 2080 3300 50  0001 C CNN
 F 3 "~" H 2150 3300 50  0001 C CNN
 F 4 "1/4 w" H 2150 3300 50  0001 C CNN "Description"
 	1    2150 3300
@@ -683,13 +661,13 @@ $EndComp
 $Comp
 L Connector:Screw_Terminal_01x02 J4
 U 1 1 6074D5D9
-P 9500 3300
-F 0 "J4" H 9580 3292 50  0000 L CNN
-F 1 "Motor 2" H 9580 3201 50  0000 L CNN
-F 2 "DriverCortina_Folino:bornera_1x2_con_tornillo_5.08mm" H 9500 3300 50  0001 C CNN
-F 3 "~" H 9500 3300 50  0001 C CNN
-	1    9500 3300
-	1    0    0    1   
+P 9500 3200
+F 0 "J4" H 9580 3192 50  0000 L CNN
+F 1 "Motor 2" H 9580 3101 50  0000 L CNN
+F 2 "DriverCortina_Folino:bornera_1x2_con_tornillo_5.08mm" H 9500 3200 50  0001 C CNN
+F 3 "~" H 9500 3200 50  0001 C CNN
+	1    9500 3200
+	1    0    0    -1  
 $EndComp
 $Comp
 L power:+5V #PWR0111
@@ -721,7 +699,7 @@ U 1 1 6074D5ED
 P 6650 3600
 F 0 "R8" V 6857 3600 50  0000 C CNN
 F 1 "R10K" V 6766 3600 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" V 6580 3600 50  0001 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 6580 3600 50  0001 C CNN
 F 3 "~" H 6650 3600 50  0001 C CNN
 F 4 "1/4 w" H 6650 3600 50  0001 C CNN "Description"
 	1    6650 3600
@@ -748,7 +726,7 @@ U 1 1 6074D5FC
 P 6950 3300
 F 0 "R9" V 6804 3300 50  0000 C TNN
 F 1 "R10K" V 6711 3300 50  0000 C TNN
-F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" V 6880 3300 50  0001 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 6880 3300 50  0001 C CNN
 F 3 "~" H 6950 3300 50  0001 C CNN
 F 4 "1/4 w" H 6950 3300 50  0001 C CNN "Description"
 	1    6950 3300
@@ -782,8 +760,6 @@ Wire Notes Line
 	7150 4600 7150 5000
 Wire Wire Line
 	1650 6200 1650 6350
-Wire Wire Line
-	2500 6350 2150 6350
 NoConn ~ 2500 6450
 NoConn ~ 2500 6550
 Wire Wire Line
@@ -853,19 +829,14 @@ Connection ~ 9650 2150
 $Comp
 L power:PWR_FLAG #FLG0103
 U 1 1 6070AA25
-P 2150 6200
-F 0 "#FLG0103" H 2150 6275 50  0001 C CNN
-F 1 "PWR_FLAG" H 2150 6373 50  0000 C CNN
-F 2 "" H 2150 6200 50  0001 C CNN
-F 3 "~" H 2150 6200 50  0001 C CNN
-	1    2150 6200
+P 2000 6150
+F 0 "#FLG0103" H 2000 6225 50  0001 C CNN
+F 1 "PWR_FLAG" H 2000 6323 50  0000 C CNN
+F 2 "" H 2000 6150 50  0001 C CNN
+F 3 "~" H 2000 6150 50  0001 C CNN
+	1    2000 6150
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	2150 6200 2150 6350
-Connection ~ 2150 6350
-Wire Wire Line
-	2150 6350 1650 6350
 $Comp
 L Mechanical:Fiducial FID1
 U 1 1 6070F0F5
@@ -940,4 +911,49 @@ Wire Wire Line
 Connection ~ 1650 6350
 Wire Wire Line
 	1650 6900 1650 7050
+$Comp
+L power:+3.3V #PWR0109
+U 1 1 60733302
+P 2300 6150
+F 0 "#PWR0109" H 2300 6000 50  0001 C CNN
+F 1 "+3.3V" H 2315 6323 50  0000 C CNN
+F 2 "" H 2300 6150 50  0001 C CNN
+F 3 "" H 2300 6150 50  0001 C CNN
+	1    2300 6150
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+3.3V #PWR0110
+U 1 1 60735F80
+P 4650 5800
+F 0 "#PWR0110" H 4650 5650 50  0001 C CNN
+F 1 "+3.3V" H 4665 5973 50  0000 C CNN
+F 2 "" H 4650 5800 50  0001 C CNN
+F 3 "" H 4650 5800 50  0001 C CNN
+	1    4650 5800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+3.3V #PWR0113
+U 1 1 60737B56
+P 5550 5800
+F 0 "#PWR0113" H 5550 5650 50  0001 C CNN
+F 1 "+3.3V" H 5565 5973 50  0000 C CNN
+F 2 "" H 5550 5800 50  0001 C CNN
+F 3 "" H 5550 5800 50  0001 C CNN
+	1    5550 5800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1650 6350 2000 6350
+Wire Wire Line
+	2000 6150 2000 6350
+Connection ~ 2000 6350
+Wire Wire Line
+	2000 6350 2300 6350
+Wire Wire Line
+	2300 6150 2300 6350
+Connection ~ 2300 6350
+Wire Wire Line
+	2300 6350 2500 6350
 $EndSCHEMATC

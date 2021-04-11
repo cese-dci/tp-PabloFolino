@@ -22,5 +22,6 @@ Año: 2021
 |[08/04/2021] | Modificación de la organización del repositorio. | 
 |[09/04/2021] | Corrección de errores de documentación. | 
 |[10/04/2021] | Actualiza Footprint D3. | 
+|[11/04/2021] | Creación PCB, y modelo 3D de SSR. | 
 |[x.x] |     | 
  
