@@ -962,4 +962,15 @@ Text Notes 7050 1000 0    157  ~ 0
 Fuente_de_Alimentación
 Text Notes 1300 1200 0    157  ~ 0
 Agujeros y\n fiduciales
+$Comp
+L Poncho_Esqueleto:OSHWA #G?
+U 1 1 607E3158
+P 9750 4600
+F 0 "#G?" H 9720 5000 60  0001 C CNN
+F 1 "OSHWA" H 9750 4903 60  0001 C CNN
+F 2 "" H 9750 4600 60  0000 C CNN
+F 3 "" H 9750 4600 60  0000 C CNN
+	1    9750 4600
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC

@@ -24,6 +24,7 @@ Año: 2021
 |[10/04/2021] | Actualiza Footprint D3. | 
 |[11/04/2021] | Creación PCB, y modelo 3D de SSR. | 
 |[14/04/2021] | Se realizan las correciones del esquemático propuestas por el profesor. | 
+|[19/04/2021] | Se actualiza PCB. | 
  
 # Revisiones del Profesor
 

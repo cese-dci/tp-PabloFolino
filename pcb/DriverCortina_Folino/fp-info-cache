@@ -1,4 +1,4 @@
-20597473054031468
+20618507609008468
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -54165,20 +54165,6 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
-DriverCortina_Folino
-bornera_1x2_con_tornillo_5.08mm
-
-
-0
-2
-2
-DriverCortina_Folino
-bornera_1x3_con_tornillo_5.08mm
-
-
-0
-3
-3
 ESP
 ESP-01
 Module, ESP-8266, ESP-01, 8 pin

@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name DriverCortina_Folino-rescue)(type Legacy)(uri ${KIPRJMOD}/DriverCortina_Folino-rescue.lib)(options "")(descr ""))
+  (lib (name Poncho_Esqueleto)(type Legacy)(uri ${KIPRJMOD}/libPonchos/Poncho_Esqueleto.lib)(options "")(descr ""))
 )

@@ -1,2 +1,3 @@
 (fp_lib_table
+  (lib (name DriverCortina_Folino)(type KiCad)(uri ${KIPRJMOD}/DriverCortina_Folino.pretty)(options "")(descr ""))
 )
